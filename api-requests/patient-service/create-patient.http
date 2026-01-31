@@ -3,7 +3,7 @@ Content-Type: application/json
 
 {
  "name":"Trisha Alu",
-  "email":"alu@gmail.com",
+  "email":"tisu@gmail",
   "address":"AUST 123 123 ",
   "dateOfBirth":"1950-09-09",
   "registeredDate":"1980-09-08"
