@@ -1,10 +1,11 @@
-PUT localhost:4000/patients/223e4567-e89b-12d3-a456-426614174014
+PUT localhost:4000/patients/223e4567-e89b-12d3-a456-426614174013
 Content-Type: application/json
 
 {
- "name":"Trisha Alu",
-  "email":"tisu@gmail",
-  "address":"AUST 123 123 ",
-  "dateOfBirth":"2001-09-09",
-  "registeredDate":"2025-09-08"
+ "name":"Trisha Alu22",
+  "email":"tisu22213123@gmail",
+  "address":"AUST - NSW 123 123 ",
+  "dateOfBirth":"2001-09-09"
+
+
 }

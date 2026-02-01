@@ -52,7 +52,6 @@ public class PatientService {
         patient.setName(patientRequestDTO.getName());
         patient.setAddress(patientRequestDTO.getAddress());
         patient.setEmail(patientRequestDTO.getEmail());
-        patient.setRegisteredDate(LocalDate.parse(patientRequestDTO.getRegisteredDate()));
         patient.setDateOfBirth(LocalDate.parse((patientRequestDTO.getDateOfBirth())));
 
         Patient updatePatient = patientRepository.save(patient);
