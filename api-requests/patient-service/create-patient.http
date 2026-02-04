@@ -2,9 +2,9 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
- "name":"Trisha Alu",
-  "email":"tisu@gmail",
+ "name":"Trisha",
+  "email":"trisha@gmail",
   "address":"AUST 123 123 ",
-  "dateOfBirth":"1950-09-09",
-  "registeredDate":"1980-09-08"
+  "dateOfBirth":"2001-09-09",
+  "registeredDate":"2025-09-08"
 }
